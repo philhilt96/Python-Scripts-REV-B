@@ -10,7 +10,7 @@ There are ~~two ways~~ to run the program:
 
 - ~~In the dist folder, click on __main__.exe~~
 
-- From a bash terminal make sure the path is inside \<Python Scripts Rev B\> and run \'python __main__.py\'
+- From a bash terminal make sure the path is inside \<Python Scripts Rev B\> and run 'python \_\_main\_\_.py'
 
 For the most part the gui should guide you through use, but general usage is as follows:
 A connection must be made with the 'Check Connection' button before anything can be done. If no connection is made,
