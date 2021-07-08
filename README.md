@@ -1,12 +1,11 @@
 # Python-Scripts-REV-B
 
 This folder contains a working version of the Python program to run test vectors on the R232. 
-For the program to run successfully git bash should be installed. 
-Which can be installed here: https://git-scm.com/downloads
+For the program to run successfully git bash should be installed, which can be installed here: https://git-scm.com/downloads
 VS Code is recommended if running from terminal. To set bash to default terminal follow directions here:
 https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal
 
-There are ~~two ways~~ to run the program:
+~~There are two ways~~ to run the program:
 
 - ~~In the dist folder, click on __main__.exe~~
 
