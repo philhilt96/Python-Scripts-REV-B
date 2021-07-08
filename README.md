@@ -6,9 +6,9 @@ Which can be installed here: https://git-scm.com/downloads
 VS Code is recommended if running from terminal. To set bash to default terminal follow directions here:
 https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal
 
-There are two ways to run the program:
+There are ~~two ways~~ to run the program:
 
-- In the dist folder, click on __main__.exe
+- ~~In the dist folder, click on __main__.exe~~
 
 - From a bash terminal make sure the path is inside <Python Scripts Rev B> and run 'python __main__.py'
 
