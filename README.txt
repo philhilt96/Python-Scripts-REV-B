@@ -3,7 +3,7 @@ For the program to run successfully git bash should be installed.
 
 At the moment there is only one way to run the program
 
-- From a bash terminal make sure the path is inside <Python-Scripts-Rev-B> and run 'python __main__.py' 
+- From a bash terminal make sure the path is directed to <Python-Scripts-Rev-B> and run 'python __main__.py' 
 
 For the most part the gui should guide you through use, but general usage is as follows:
 A connection must be made with the 'Check Connection' button before anything can be done. If no connection is made,
